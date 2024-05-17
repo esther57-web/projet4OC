@@ -22,7 +22,7 @@ Site après intervention : https://esther57-web.github.io/projet4OC/
 # Améliorations apportées
 
 <ul>
-    <li>Amélioration de la performance en redimensionnant, compressant et convertissant des images en WebP</li>
+    <li>Amélioration de la performance en redimensionnant, compressant, convertissant des images en WebP et en minifiant les fichiers</li>
     <li>Amélioration du SEO en ajoutant des balises semantiques, des balises meta descriptions et une balise title</li>
     <li>Amélioration de l'accessibilité en ajoutant les attributs manquants et en augmentant le constrate des couleurs</li>
     <li>Référencement local avec les micro-données</li>
